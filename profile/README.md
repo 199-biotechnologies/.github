@@ -19,7 +19,6 @@
 - [`lumina-clock`](https://github.com/199-biotechnologies/lumina-clock) — Age calculation tools
 
 ### 🏥 **Clinical & Consumer**
-- [`199-clinic-website`](https://github.com/199-biotechnologies/199-clinic-website) — 199 Longevity Clinic
 - [`clinic-starter`](https://github.com/199-biotechnologies/clinic-starter) — Medical clinic starter template
 - [`maviro-health`](https://github.com/199-biotechnologies/maviro-health) — Digital health agent
 - [`longevity-store`](https://github.com/199-biotechnologies/longevity-store) — Supplement marketplace
