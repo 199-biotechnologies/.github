@@ -8,34 +8,10 @@
 
 ## Our Portfolio
 
-### 🧬 **Research & Development**
-- [`aging-research-v2`](https://github.com/199-biotechnologies/aging-research-v2) — Aging research platform
-- [`senolib`](https://github.com/199-biotechnologies/senolib) — Senomorphics & senolytics database
+### 🧬 **Open Source**
 - [`sequence-optimiser`](https://github.com/199-biotechnologies/sequence-optimiser) — Sequence optimization tools
-- [`science-rss-feeds`](https://github.com/199-biotechnologies/science-rss-feeds) — Scientific paper aggregation
-- [`arn-2025`](https://github.com/199-biotechnologies/arn-2025) — Aging research news
-- [`agequant-kit`](https://github.com/199-biotechnologies/agequant-kit) — NAD+ test kit platform
-- [`longevity-calculator`](https://github.com/199-biotechnologies/longevity-calculator) — Biological age modeling
-- [`lumina-clock`](https://github.com/199-biotechnologies/lumina-clock) — Age calculation tools
-
-### 🏥 **Clinical & Consumer**
 - [`clinic-starter`](https://github.com/199-biotechnologies/clinic-starter) — Medical clinic starter template
-- [`maviro-health`](https://github.com/199-biotechnologies/maviro-health) — Digital health agent
-- [`longevity-store`](https://github.com/199-biotechnologies/longevity-store) — Supplement marketplace
-- [`senaclear`](https://github.com/199-biotechnologies/senaclear) — SenaClear platform
-- [`pcc1-news`](https://github.com/199-biotechnologies/pcc1-news) — PCC1 compound updates
-- [`Healthspan-Fund`](https://github.com/199-biotechnologies/Healthspan-Fund) — Investment platform
-- [`longevity-clinics-database`](https://github.com/199-biotechnologies/longevity-clinics-database) — Clinic directory
-
-### 💼 **Operations & Infrastructure**
-- [`agequant-crm-v3`](https://github.com/199-biotechnologies/agequant-crm-v3) — CRM system
-- [`invoice-generator`](https://github.com/199-biotechnologies/invoice-generator) — Billing automation
-- [`stripe-stock-management`](https://github.com/199-biotechnologies/stripe-stock-management) — Inventory management
-- [`agequant-admin`](https://github.com/199-biotechnologies/agequant-admin) — Admin dashboard
-- [`connected-devices-webapp`](https://github.com/199-biotechnologies/connected-devices-webapp) — Device integration
-- [`199bio-website`](https://github.com/199-biotechnologies/199bio-website) — Corporate website
-- [`199.company`](https://github.com/199-biotechnologies/199.company) — Group website
-- [`agequant-website`](https://github.com/199-biotechnologies/agequant-website) — AgeQuant platform
+- [`agent-experience`](https://github.com/199-biotechnologies/agent-experience) — Agent experience platform
 
 ## About 199
 
