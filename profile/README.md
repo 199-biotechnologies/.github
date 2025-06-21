@@ -8,9 +8,8 @@
 
 ## Our Portfolio
 
-### 🧬 **Open Source**
-- [`sequence-optimiser`](https://github.com/199-biotechnologies/sequence-optimiser) — Sequence optimization tools
 - [`clinic-starter`](https://github.com/199-biotechnologies/clinic-starter) — Medical clinic starter template
+- [`sequence-optimiser`](https://github.com/199-biotechnologies/sequence-optimiser) — Sequence optimization tools
 - [`agent-experience`](https://github.com/199-biotechnologies/agent-experience) — Agent experience platform
 
 ## About 199
