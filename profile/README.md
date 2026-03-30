@@ -1,26 +1,91 @@
+<div align="center">
+
 # 199 Biotechnologies
 
-**Digital Health Portfolio. By Technology, for Humanity.**
+**Open-source tools for longevity science, AI agents, and developer infrastructure.**
+
+<br />
+
+[![Follow @longevityboris on X](https://img.shields.io/badge/Follow_%40longevityboris-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/longevityboris)
+&nbsp;&nbsp;
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/199-biotechnologies)
+
+</div>
 
 ---
 
-199 Biotechnologies is our digital health portfolio — a comprehensive suite of platforms and applications that accelerate medical research and deliver solutions to impact health, wellness, and wellbeing. These tools leverage cutting-edge technologies, from cellular reprogramming and novel senolytics to digital twin platforms and AI-powered diagnostics, harnessing exponential technological growth for the benefit of humanity.
+## Featured Projects
 
-## Our Portfolio
+| Project | What it does |
+|---------|-------------|
+| [**claude-deep-research-skill**](https://github.com/199-biotechnologies/claude-deep-research-skill) | Enterprise-grade deep research for Claude Code. 8-phase pipeline, source credibility scoring, automated validation. 371 stars. |
+| [**autoresearch-cli**](https://github.com/199-biotechnologies/autoresearch-cli) | Autonomous experiment loop — run research overnight with any AI coding agent. |
+| [**search-cli**](https://github.com/199-biotechnologies/search-cli) | Multi-provider web search in one Rust binary. Brave, Serper, Exa, Jina, Firecrawl, Perplexity, xAI. |
+| [**whatsrust**](https://github.com/199-biotechnologies/whatsrust) | WhatsApp in pure Rust. Single binary, 5 MB, 15 MB RAM. 54 API endpoints, 30 MCP tools. |
+| [**engram**](https://github.com/199-biotechnologies/engram) | MCP server for personal memory. Hybrid search (BM25 + semantic + knowledge graph), local-first. |
+| [**xmaster**](https://github.com/199-biotechnologies/xmaster) | X/Twitter CLI for developers and AI agents. Post, reply, search, DM, schedule, analyze. |
 
-- [`clinic-starter`](https://github.com/199-biotechnologies/clinic-starter) — Medical clinic starter template
-- [`sequence-optimiser`](https://github.com/199-biotechnologies/sequence-optimiser) — Sequence optimization tools
-- [`agent-experience`](https://github.com/199-biotechnologies/agent-experience) — Agent experience platform
+## Longevity & Biotech
 
-## About 199
+| Project | What it does |
+|---------|-------------|
+| [**sequence-optimiser**](https://github.com/199-biotechnologies/sequence-optimiser) | CpG-depleted, codon-optimised FST344 follistatin sequences for AAV gene therapy. AlphaFold3 validated. |
+| [**lhm-foundational-model**](https://github.com/199-biotechnologies/lhm-foundational-model) | Health trajectory prediction foundation model. Architecture shootout: Transformer vs Mamba vs Continuous-Time. |
+| [**humanitys-offline-brain**](https://github.com/199-biotechnologies/humanitys-offline-brain) | Offline AI + knowledge archive. Local LLM reasoning over humanity's essential texts. No internet required. |
 
-199 Biotechnologies is part of [199 Group](https://199.company), advancing medical research to deliver solutions that impact health, wellness, and wellbeing. From cellular reprogramming and novel senolytics to digital twin platforms and AI diagnostics, we're harnessing exponential technological growth for the benefit of humanity.
+## AI Agent Tools
 
-Founded by Boris Djordjevic.
+| Project | What it does |
+|---------|-------------|
+| [**clinstagram**](https://github.com/199-biotechnologies/clinstagram) | Instagram CLI for AI agents. Meta Graph API + instagrapi private API. |
+| [**email-cli**](https://github.com/199-biotechnologies/email-cli) | Send, receive, and manage email from your terminal. Resend API, local SQLite, 42 commands. |
+| [**genai**](https://github.com/199-biotechnologies/genai) | AI image and video generation from the terminal. Flux, Kling, Veo, GPT Image, 10+ models. |
+| [**onchain-cli**](https://github.com/199-biotechnologies/onchain-cli) | EVM CLI for on-chain forensics. Transaction tracing, ABI decoding, calldata analysis. |
+| [**probe-person**](https://github.com/199-biotechnologies/probe-person) | Deep background investigations. Corporate registries, sanctions lists, court records, news. |
+| [**agent-cli-framework**](https://github.com/199-biotechnologies/agent-cli-framework) | Architecture for building Rust CLIs that AI agents can discover, call, and learn from. |
+
+## Apple Silicon ML
+
+| Project | What it does |
+|---------|-------------|
+| [**textstream-asr**](https://github.com/199-biotechnologies/textstream-asr) | Live speech-to-text streaming. Qwen3-ASR + Silero VAD + MLX on Apple Silicon. |
+| [**ultrashape-mac**](https://github.com/199-biotechnologies/ultrashape-mac) | UltraShape 1.0 ported to Mac. High-fidelity 3D shape generation from images via MPS. |
+| [**stream-diffvsr**](https://github.com/199-biotechnologies/stream-diffvsr) | Diffusion-based video super-resolution for Apple Silicon. Upscale video 4x on Mac. |
+| [**realrestore-cli**](https://github.com/199-biotechnologies/realrestore-cli) | AI image restoration CLI. 9 tasks, MPS/MLX backends, watermark removal. |
+
+## Claude Code Skills
+
+| Project | What it does |
+|---------|-------------|
+| [**claude-deep-research-skill**](https://github.com/199-biotechnologies/claude-deep-research-skill) | 8-phase research pipeline with source credibility scoring. 371 stars. |
+| [**motion-dev-animations-skill**](https://github.com/199-biotechnologies/motion-dev-animations-skill) | Motion.dev animations — 120fps, spring physics, scroll effects, gesture interactions. |
+| [**claude-skill-gpt-pro**](https://github.com/199-biotechnologies/claude-skill-gpt-pro) | Cross-model review. Package files + prompt for ChatGPT Pro deep reasoning. |
+| [**douglas-adamiser**](https://github.com/199-biotechnologies/douglas-adamiser) | Transform any text into Douglas Adams' style. Calibrated against 528,808 words from 10 books. |
+| [**context-priming**](https://github.com/199-biotechnologies/context-priming) | Proactive context synthesis for coding agents. Build the right context before the first token. |
+| [**unblur-ml**](https://github.com/199-biotechnologies/unblur-ml) | Recover Gaussian-blurred BIP-39 seed phrases with CNN classification. Security research. |
 
 ---
 
-**Digital Health Portfolio. By Technology, for Humanity.**
+## About
 
-[199.company](https://199.company) • [199.bio](https://199.bio) • [199.clinic](https://199.clinic) • [199labs.com](https://199labs.com)
-EOF < /dev/null
+**199 Biotechnologies (SG) Pte Ltd** is a Singapore-based longevity and AI company. We build open-source developer tools, agent infrastructure, and biotech research platforms.
+
+**[Paperfoot AI](https://paperfoot.ai)** is our AI research lab, focused on agent-native tooling, on-device inference, and cross-model orchestration.
+
+### Boris Djordjevic — Founder
+
+Serial entrepreneur and technologist based in Singapore. Background spans biotech, fintech, and consumer tech across the UK, Serbia, and Southeast Asia. Obsessed with longevity science and building tools that let AI agents do real work — not just chat. Ships Rust CLIs, iOS apps, and ML pipelines. Believes the best code is the code you delete.
+
+Previously founded companies in digital health, forex trading, and creative technology. Now focused full-time on making the 200-year lifespan an engineering problem rather than a philosophical one.
+
+---
+
+<div align="center">
+
+[![Follow @longevityboris on X](https://img.shields.io/badge/Follow_%40longevityboris-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/longevityboris)
+&nbsp;&nbsp;
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/199-biotechnologies)
+
+[199.company](https://199.company) · [199.bio](https://199.bio) · [199.clinic](https://199.clinic) · [199labs.com](https://199labs.com) · [paperfoot.ai](https://paperfoot.ai)
+
+</div>
