@@ -44,14 +44,22 @@
 | [**probe-person**](https://github.com/199-biotechnologies/probe-person) | Deep background investigations. Corporate registries, sanctions lists, court records, news. |
 | [**agent-cli-framework**](https://github.com/199-biotechnologies/agent-cli-framework) | Architecture for building Rust CLIs that AI agents can discover, call, and learn from. |
 
-## Apple Silicon ML
+## AI & Machine Learning Models
 
 | Project | What it does |
 |---------|-------------|
+| [**unblur-ml**](https://github.com/199-biotechnologies/unblur-ml) | CNN model that recovers Gaussian-blurred BIP-39 seed phrases. 100% at mild blur, 93% at heavy. Security research. |
+| [**nemotron-asr-mlx**](https://github.com/199-biotechnologies/nemotron-asr-mlx) | NVIDIA Nemotron Speech ASR on Apple Silicon via MLX. Cache-aware streaming for ultra-low latency speech-to-text. |
 | [**textstream-asr**](https://github.com/199-biotechnologies/textstream-asr) | Live speech-to-text streaming. Qwen3-ASR + Silero VAD + MLX on Apple Silicon. |
+| [**petus-breed-ml**](https://github.com/199-biotechnologies/petus-breed-ml) | Multi-model dog breed classification. DINOv3, C-RADIOv4, SigLIP 2, stacking ensembles. |
+| [**realrestore-cli**](https://github.com/199-biotechnologies/realrestore-cli) | AI image restoration. 9 tasks, MPS/MLX backends, watermark removal. |
+
+## Apple Silicon Ports
+
+| Project | What it does |
+|---------|-------------|
 | [**ultrashape-mac**](https://github.com/199-biotechnologies/ultrashape-mac) | UltraShape 1.0 ported to Mac. High-fidelity 3D shape generation from images via MPS. |
 | [**stream-diffvsr**](https://github.com/199-biotechnologies/stream-diffvsr) | Diffusion-based video super-resolution for Apple Silicon. Upscale video 4x on Mac. |
-| [**realrestore-cli**](https://github.com/199-biotechnologies/realrestore-cli) | AI image restoration CLI. 9 tasks, MPS/MLX backends, watermark removal. |
 
 ## Claude Code Skills
 
@@ -62,7 +70,6 @@
 | [**claude-skill-gpt-pro**](https://github.com/199-biotechnologies/claude-skill-gpt-pro) | Cross-model review. Package files + prompt for ChatGPT Pro deep reasoning. |
 | [**douglas-adamiser**](https://github.com/199-biotechnologies/douglas-adamiser) | Transform any text into Douglas Adams' style. Calibrated against 528,808 words from 10 books. |
 | [**context-priming**](https://github.com/199-biotechnologies/context-priming) | Proactive context synthesis for coding agents. Build the right context before the first token. |
-| [**unblur-ml**](https://github.com/199-biotechnologies/unblur-ml) | Recover Gaussian-blurred BIP-39 seed phrases with CNN classification. Security research. |
 
 ---
 
