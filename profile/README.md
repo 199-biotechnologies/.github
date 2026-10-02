@@ -2,97 +2,81 @@
 
 # 199 Biotechnologies
 
-**Open-source tools for longevity science, AI agents, and developer infrastructure.**
+**Longevity biotechnology and AI for biology, plus open-source tools for AI agents.**
 
-<br />
-
+[![GitHub stars](https://img.shields.io/github/stars/199-biotechnologies?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/orgs/199-biotechnologies/repositories?type=source&sort=stargazers)
 [![Follow @longevityboris on X](https://img.shields.io/badge/Follow_%40longevityboris-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/longevityboris)
-&nbsp;&nbsp;
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/199-biotechnologies)
+[![Website: 199.bio](https://img.shields.io/badge/Website-199.bio-2b2b2b?style=for-the-badge)](https://www.199.bio)
+[![Founder: borisdjordjevic.com](https://img.shields.io/badge/Founder-borisdjordjevic.com-a2461f?style=for-the-badge)](https://borisdjordjevic.com)
 
 </div>
 
----
+199 Biotechnologies researches partial cellular reprogramming and senolytics, and builds the AI and software behind the 199 group's research, diagnostics and clinical care. [Boris Djordjevic](https://borisdjordjevic.com) founded it in 2022; we work from London and Singapore.
 
-## Featured Projects
+We open-source the tools we build for that work: Claude Code skills, MCP servers, Rust command-line tools for AI agents, and machine-learning models that run on Apple Silicon.
 
-| Project | What it does |
-|---------|-------------|
-| [**claude-deep-research-skill**](https://github.com/199-biotechnologies/claude-deep-research-skill) | Enterprise-grade deep research for Claude Code. 8-phase pipeline, source credibility scoring, automated validation. 371 stars. |
-| [**autoresearch-cli**](https://github.com/199-biotechnologies/autoresearch-cli) | Autonomous experiment loop — run research overnight with any AI coding agent. |
-| [**search-cli**](https://github.com/199-biotechnologies/search-cli) | Multi-provider web search in one Rust binary. Brave, Serper, Exa, Jina, Firecrawl, Perplexity, xAI. |
-| [**whatsrust**](https://github.com/199-biotechnologies/whatsrust) | WhatsApp in pure Rust. Single binary, 5 MB, 15 MB RAM. 54 API endpoints, 30 MCP tools. |
-| [**engram**](https://github.com/199-biotechnologies/engram) | MCP server for personal memory. Hybrid search (BM25 + semantic + knowledge graph), local-first. |
-| [**xmaster**](https://github.com/199-biotechnologies/xmaster) | X/Twitter CLI for developers and AI agents. Post, reply, search, DM, schedule, analyze. |
-
-## Longevity & Biotech
+## Start here
 
 | Project | What it does |
-|---------|-------------|
-| [**sequence-optimiser**](https://github.com/199-biotechnologies/sequence-optimiser) | CpG-depleted, codon-optimised FST344 follistatin sequences for AAV gene therapy. AlphaFold3 validated. |
-| [**lhm-foundational-model**](https://github.com/199-biotechnologies/lhm-foundational-model) | Health trajectory prediction foundation model. Architecture shootout: Transformer vs Mamba vs Continuous-Time. |
-| [**humanitys-offline-brain**](https://github.com/199-biotechnologies/humanitys-offline-brain) | Offline AI + knowledge archive. Local LLM reasoning over humanity's essential texts. No internet required. |
+|---|---|
+| [**claude-deep-research-skill**](https://github.com/199-biotechnologies/claude-deep-research-skill) | Deep research for Claude Code: a multi-stage pipeline with source scoring, citation tracking and automated validation. Our most-starred repository. |
+| [**whatsrust**](https://github.com/199-biotechnologies/whatsrust) | WhatsApp in pure Rust for AI agents: one 5 MB binary, 54 API endpoints and 30 MCP tools. |
+| [**engram**](https://github.com/199-biotechnologies/engram) | Persistent memory for AI agents: hybrid BM25, semantic and knowledge-graph search, local-first. |
+| [**ritalin**](https://github.com/paperfoot/ritalin-cli) | Proof-carrying completion for coding agents: blocks "done" until every critical requirement has evidence. |
+| [**lhm-foundational-model**](https://github.com/199-biotechnologies/lhm-foundational-model) | Health-trajectory prediction from longitudinal records, comparing Transformer, Mamba and continuous-time architectures. |
+| [**search-cli**](https://github.com/paperfoot/search-cli) | Web search for AI agents: 13 providers rank-fused in one Rust binary. |
 
-## AI Agent Tools
+## Claude Code skills
 
-| Project | What it does |
-|---------|-------------|
-| [**clinstagram**](https://github.com/199-biotechnologies/clinstagram) | Instagram CLI for AI agents. Meta Graph API + instagrapi private API. |
-| [**email-cli**](https://github.com/199-biotechnologies/email-cli) | Send, receive, and manage email from your terminal. Resend API, local SQLite, 42 commands. |
-| [**genai**](https://github.com/199-biotechnologies/genai) | AI image and video generation from the terminal. Flux, Kling, Veo, GPT Image, 10+ models. |
-| [**onchain-cli**](https://github.com/199-biotechnologies/onchain-cli) | EVM CLI for on-chain forensics. Transaction tracing, ABI decoding, calldata analysis. |
-| [**probe-person**](https://github.com/199-biotechnologies/probe-person) | Deep background investigations. Corporate registries, sanctions lists, court records, news. |
-| [**agent-cli-framework**](https://github.com/199-biotechnologies/agent-cli-framework) | Architecture for building Rust CLIs that AI agents can discover, call, and learn from. |
+- [**motion-dev-animations-skill**](https://github.com/199-biotechnologies/motion-dev-animations-skill): Motion.dev web animations with spring physics, scroll effects and gestures.
+- [**claude-skill-seo-geo-optimizer**](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer): search and generative-engine optimisation for web content.
+- [**swiftui-claude-skills**](https://github.com/199-biotechnologies/swiftui-claude-skills) and [**app-store-connect-skill**](https://github.com/199-biotechnologies/app-store-connect-skill): iOS 26 interfaces and App Store Connect from the terminal.
 
-## AI & Machine Learning Models
+## Agent infrastructure
 
-| Project | What it does |
-|---------|-------------|
-| [**unblur-ml**](https://github.com/199-biotechnologies/unblur-ml) | CNN model that recovers Gaussian-blurred BIP-39 seed phrases. 100% at mild blur, 93% at heavy. Security research. |
-| [**nemotron-asr-mlx**](https://github.com/199-biotechnologies/nemotron-asr-mlx) | NVIDIA Nemotron Speech ASR on Apple Silicon via MLX. Cache-aware streaming for ultra-low latency speech-to-text. |
-| [**textstream-asr**](https://github.com/199-biotechnologies/textstream-asr) | Live speech-to-text streaming. Qwen3-ASR + Silero VAD + MLX on Apple Silicon. |
-| [**petus-breed-ml**](https://github.com/199-biotechnologies/petus-breed-ml) | Multi-model dog breed classification. DINOv3, C-RADIOv4, SigLIP 2, stacking ensembles. |
-| [**realrestore-cli**](https://github.com/199-biotechnologies/realrestore-cli) | AI image restoration. 9 tasks, MPS/MLX backends, watermark removal. |
+- [**context-priming**](https://github.com/199-biotechnologies/context-priming): builds a coding agent's context before the first token.
+- [**autoresearch-cli**](https://github.com/paperfoot/autoresearch-cli): an autonomous experiment loop that runs overnight with any coding agent.
+- [**agent-cli-framework**](https://github.com/paperfoot/agent-cli-framework): Rust CLIs that agents can discover and call without an MCP server.
+- [**199-mcp**](https://github.com/199-mcp): MCP servers, including biological age from blood biomarkers ([PhenoAge](https://github.com/199-mcp/mcp-phenoage-clock)) and ElevenLabs voice agents.
 
-## Apple Silicon Ports
+## On-device machine learning (Apple Silicon)
 
-| Project | What it does |
-|---------|-------------|
-| [**ultrashape-mac**](https://github.com/199-biotechnologies/ultrashape-mac) | UltraShape 1.0 ported to Mac. High-fidelity 3D shape generation from images via MPS. |
-| [**stream-diffvsr**](https://github.com/199-biotechnologies/stream-diffvsr) | Diffusion-based video super-resolution for Apple Silicon. Upscale video 4x on Mac. |
+- [**nemotron-asr-mlx**](https://github.com/199-biotechnologies/nemotron-asr-mlx): NVIDIA Nemotron streaming speech recognition on MLX.
+- [**textstream-asr**](https://github.com/199-biotechnologies/textstream-asr): live speech-to-text with Qwen3-ASR and Silero VAD.
+- [**ultrashape-mac**](https://github.com/199-biotechnologies/ultrashape-mac) and [**stream-diffvsr**](https://github.com/199-biotechnologies/stream-diffvsr): 3D shape generation and video super-resolution on Apple GPUs.
 
-## Claude Code Skills
+## Biology
 
-| Project | What it does |
-|---------|-------------|
-| [**claude-deep-research-skill**](https://github.com/199-biotechnologies/claude-deep-research-skill) | 8-phase research pipeline with source credibility scoring. 371 stars. |
-| [**motion-dev-animations-skill**](https://github.com/199-biotechnologies/motion-dev-animations-skill) | Motion.dev animations — 120fps, spring physics, scroll effects, gesture interactions. |
-| [**claude-skill-gpt-pro**](https://github.com/199-biotechnologies/claude-skill-gpt-pro) | Cross-model review. Package files + prompt for ChatGPT Pro deep reasoning. |
-| [**douglas-adamiser**](https://github.com/199-biotechnologies/douglas-adamiser) | Transform any text into Douglas Adams' style. Calibrated against 528,808 words from 10 books. |
-| [**context-priming**](https://github.com/199-biotechnologies/context-priming) | Proactive context synthesis for coding agents. Build the right context before the first token. |
+- [**sequence-optimiser**](https://github.com/199-biotechnologies/sequence-optimiser): CpG-depleted, codon-optimised FST344 follistatin sequences for AAV gene therapy.
 
----
+## Research
 
-## About
+Peer-reviewed work by our founder, including:
 
-**199 Biotechnologies (SG) Pte Ltd** is a Singapore-based longevity and AI company. We build open-source developer tools, agent infrastructure, and biotech research platforms.
+- Tunable hydrogel-based micropillar arrays for myelination studies. *Nature Methods* (2026). [doi](https://doi.org/10.1038/s41592-026-03048-3)
+- Emergent mechanical control of vascular morphogenesis. *Science Advances* (2023). [doi](https://doi.org/10.1126/sciadv.adg9781)
+- Longevity biotechnology: bridging AI, biomarkers, geroscience and clinical applications for healthy longevity. *Aging* (2024). [doi](https://doi.org/10.18632/aging.206135)
 
-**[Paperfoot AI](https://paperfoot.ai)** is our AI research lab, focused on agent-native tooling, on-device inference, and cross-model orchestration.
+All eight papers: [borisdjordjevic.com/publications](https://borisdjordjevic.com/publications)
 
-### Boris Djordjevic — Founder
+## Across GitHub
 
-Serial entrepreneur and technologist based in Singapore. Background spans biotech, fintech, and consumer tech across the UK, Serbia, and Southeast Asia. Obsessed with longevity science and building tools that let AI agents do real work — not just chat. Ships Rust CLIs, iOS apps, and ML pipelines. Believes the best code is the code you delete.
-
-Previously founded companies in digital health, forex trading, and creative technology. Now focused full-time on making the 200-year lifespan an engineering problem rather than a philosophical one.
+| Account | What lives there |
+|---|---|
+| [199-biotechnologies](https://github.com/199-biotechnologies) | Skills, agent tools and models (this page) |
+| [paperfoot](https://github.com/paperfoot) | Paperfoot AI's Rust CLIs for agents, with a [Homebrew tap](https://github.com/paperfoot/homebrew-tap) |
+| [199-mcp](https://github.com/199-mcp) | MCP servers |
+| [longevityboris](https://github.com/longevityboris) | Boris Djordjevic's personal projects |
 
 ---
 
 <div align="center">
 
+[![GitHub stars](https://img.shields.io/github/stars/199-biotechnologies?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/orgs/199-biotechnologies/repositories?type=source&sort=stargazers)
 [![Follow @longevityboris on X](https://img.shields.io/badge/Follow_%40longevityboris-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/longevityboris)
-&nbsp;&nbsp;
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/199-biotechnologies)
 
-[199.company](https://199.company) · [199.bio](https://199.bio) · [199.clinic](https://199.clinic) · [199labs.com](https://199labs.com) · [paperfoot.ai](https://paperfoot.ai)
+Built by [Boris Djordjevic](https://github.com/longevityboris) at 199 Biotechnologies and [Paperfoot AI](https://paperfoot.com) | [borisdjordjevic.com](https://borisdjordjevic.com)
+
+**199 Biotechnologies (SG) Pte Ltd** · [199.bio](https://www.199.bio)
 
 </div>
