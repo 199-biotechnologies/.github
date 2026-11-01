@@ -75,7 +75,7 @@ All eight papers: [borisdjordjevic.com/publications](https://borisdjordjevic.com
 [![GitHub stars](https://img.shields.io/github/stars/199-biotechnologies?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/orgs/199-biotechnologies/repositories?type=source&sort=stargazers)
 [![Follow @longevityboris on X](https://img.shields.io/badge/Follow_%40longevityboris-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/longevityboris)
 
-Built by [Boris Djordjevic](https://github.com/longevityboris) at 199 Biotechnologies and [Paperfoot AI](https://paperfoot.com) | [borisdjordjevic.com](https://borisdjordjevic.com)
+Built by [Boris Djordjevic](https://github.com/longevityboris) at 199 Biotechnologies and [Paperfoot AI](https://paperfoot.si) | [borisdjordjevic.com](https://borisdjordjevic.com)
 
 **199 Biotechnologies (SG) Pte Ltd** · [199.bio](https://www.199.bio)
 
